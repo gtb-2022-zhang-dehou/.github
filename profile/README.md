@@ -1,3 +1,3 @@
 # Welcome to my profile! 
 
-me: <img src="asserts/me.jpg" alt = "me" width="30%" />
+me: <img src="assets/me.JPG" alt = "me" width="30%" />
